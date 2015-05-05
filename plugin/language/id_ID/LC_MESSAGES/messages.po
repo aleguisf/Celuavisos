@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-11 22:14+0700\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Ban"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+#, fuzzy
+msgid "Compose message"
+msgstr "Pesan unicode"
+
+msgid "Delete"
+msgstr "Hapus"
+
+#, fuzzy
+msgid "Delete user"
+msgstr "Hapus"
+
+msgid "Edit"
+msgstr "Sunting"
+
+msgid "Export"
+msgstr "Ekspor"
+
+msgid "FATAL ERROR"
+msgstr ""
+
+msgid "Fail to connect to database"
+msgstr ""
+
+#, fuzzy
+msgid "Fail to load gateway"
+msgstr "Isi untuk memperbaharui"
+
+#, fuzzy
+msgid "Fail to load language"
+msgstr "Bahasa default"
+
+msgid "Fail to load main config from registry"
+msgstr ""
+
+#, fuzzy
+msgid "Fail to load themes"
+msgstr "Gagal mengirim SMS"
+
+#, fuzzy
+msgid "Features"
+msgstr "Fitur"
+
+#, fuzzy
+msgid "Forward"
+msgstr "teruskan"
+
+msgid "Go"
+msgstr "Jalankan"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "Home"
+msgstr "Beranda"
+
+msgid "Idle"
+msgstr ""
+
+#, fuzzy
+msgid "Import"
+msgstr "Ekspor"
+
+msgid "Logged in as"
+msgstr ""
+
+msgid "Login as"
+msgstr ""
+
+msgid "Logout"
+msgstr "Keluar"
+
+msgid "Main configuration"
+msgstr "Konfigurasi utama"
+
+msgid "Manage"
+msgstr "Atur"
+
+#, fuzzy
+msgid "Manage ACL"
+msgstr "Atur"
+
+#, fuzzy
+msgid "Manage account"
+msgstr "Akun saya"
+
+#, fuzzy
+msgid "Manage gateway"
+msgstr "Pengaturan pengguna"
+
+#, fuzzy
+msgid "Manage gateway and SMSC"
+msgstr "Pengaturan pengguna"
+
+#, fuzzy
+msgid "Manage sender ID"
+msgstr "ID pengirim SMS"
+
+#, fuzzy
+msgid "Manage site"
+msgstr "Pengaturan pengguna"
+
+#, fuzzy
+msgid "Manage sub-account"
+msgstr "Pengaturan pengguna"
+
+#, fuzzy
+msgid "Manage sub-accounts"
+msgstr "Pengaturan pengguna"
+
+#, fuzzy
+msgid "Manage subuser"
+msgstr "Pengaturan pengguna"
+
+#, fuzzy
+msgid "Manage subusers"
+msgstr "Pengaturan pengguna"
+
+msgid "Manage user"
+msgstr "Pengaturan pengguna"
+
+msgid "Move"
+msgstr ""
+
+#, fuzzy
+msgid "My account"
+msgstr "Akun saya"
+
+msgid "Offline"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Please run composer.phar update"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Preferensi"
+
+msgid "Reduce"
+msgstr ""
+
+msgid "Reply"
+msgstr "Balas"
+
+#, fuzzy
+msgid "Reports"
+msgstr "Ekspor"
+
+msgid "Resend"
+msgstr ""
+
+#, fuzzy
+msgid "Send message"
+msgstr "Pesan unicode"
+
+msgid "Settings"
+msgstr ""
+
+#, fuzzy
+msgid "Unable to find composer files"
+msgstr "Tidak dapat memperbaharui sesi login"
+
+msgid "Unban"
+msgstr ""
+
+#, fuzzy
+msgid "User configuration"
+msgstr "Konfigurasi utama"
+
+#, fuzzy
+msgid "User preference"
+msgstr "Preferensi"
+
+msgid "View"
+msgstr "Tampil"
+
+msgid "Your credit"
+msgstr ""
+
+msgid "return"
+msgstr ""

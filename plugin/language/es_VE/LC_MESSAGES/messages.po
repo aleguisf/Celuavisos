@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-11 22:14+0700\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Ban"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+#, fuzzy
+msgid "Compose message"
+msgstr "Enviar en Unicode"
+
+msgid "Delete"
+msgstr "Borrar"
+
+#, fuzzy
+msgid "Delete user"
+msgstr "Borrar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Export"
+msgstr ""
+
+msgid "FATAL ERROR"
+msgstr ""
+
+msgid "Fail to connect to database"
+msgstr ""
+
+#, fuzzy
+msgid "Fail to load gateway"
+msgstr "Imposible borrar el SMS"
+
+#, fuzzy
+msgid "Fail to load language"
+msgstr "Idioma activo"
+
+msgid "Fail to load main config from registry"
+msgstr ""
+
+#, fuzzy
+msgid "Fail to load themes"
+msgstr "Imposible enviar el SMS"
+
+#, fuzzy
+msgid "Features"
+msgstr "Servicio"
+
+#, fuzzy
+msgid "Forward"
+msgstr "Firma del correo reenviado"
+
+msgid "Go"
+msgstr "Ir"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Home"
+msgstr "Principal"
+
+msgid "Idle"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Logged in as"
+msgstr ""
+
+msgid "Login as"
+msgstr ""
+
+msgid "Logout"
+msgstr "Desconexión"
+
+msgid "Main configuration"
+msgstr "Configuración Principal"
+
+msgid "Manage"
+msgstr "Administrar"
+
+#, fuzzy
+msgid "Manage ACL"
+msgstr "Administrar"
+
+#, fuzzy
+msgid "Manage account"
+msgstr "Administrar usuario"
+
+#, fuzzy
+msgid "Manage gateway"
+msgstr "Administrar usuario"
+
+#, fuzzy
+msgid "Manage gateway and SMSC"
+msgstr "Administrar usuario"
+
+#, fuzzy
+msgid "Manage sender ID"
+msgstr "ID Remitente del SMS"
+
+#, fuzzy
+msgid "Manage site"
+msgstr "Administrar usuario"
+
+#, fuzzy
+msgid "Manage sub-account"
+msgstr "Administrar usuario"
+
+#, fuzzy
+msgid "Manage sub-accounts"
+msgstr "Administrar usuario"
+
+#, fuzzy
+msgid "Manage subuser"
+msgstr "Administrar usuario"
+
+#, fuzzy
+msgid "Manage subusers"
+msgstr "Administrar usuario"
+
+msgid "Manage user"
+msgstr "Administrar usuario"
+
+msgid "Move"
+msgstr ""
+
+msgid "My account"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Please run composer.phar update"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Preferencias"
+
+msgid "Reduce"
+msgstr ""
+
+msgid "Reply"
+msgstr "Responder"
+
+msgid "Reports"
+msgstr ""
+
+msgid "Resend"
+msgstr ""
+
+#, fuzzy
+msgid "Send message"
+msgstr "Enviar en Unicode"
+
+msgid "Settings"
+msgstr ""
+
+#, fuzzy
+msgid "Unable to find composer files"
+msgstr "Imposible actualizar la sesión de usuario"
+
+msgid "Unban"
+msgstr ""
+
+#, fuzzy
+msgid "User configuration"
+msgstr "Configuración Principal"
+
+#, fuzzy
+msgid "User preference"
+msgstr "Preferencias"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Your credit"
+msgstr ""
+
+msgid "return"
+msgstr ""
+
+msgid "Recover password"
+msgstr "Recuperar contraseña"

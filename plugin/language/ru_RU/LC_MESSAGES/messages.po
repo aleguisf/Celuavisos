@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-11 22:14+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexey Dvoryanchikov <gdemoyinternet@ya.ru>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Ban"
+msgstr "Заблокировать"
+
+msgid "Buy"
+msgstr "Купить"
+
+#, fuzzy
+msgid "Compose message"
+msgstr "Отправить сообщение"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete user"
+msgstr "Удалить пользователя"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "FATAL ERROR"
+msgstr "КРИТИЧЕСКАЯ ОШИБКА"
+
+msgid "Fail to connect to database"
+msgstr "Не удалось подключиться к БД"
+
+msgid "Fail to load gateway"
+msgstr "Не удалось загрузить шлюз"
+
+msgid "Fail to load language"
+msgstr "Не удалось загрузить язык"
+
+msgid "Fail to load main config from registry"
+msgstr "Не удалось загрузить конфигурацию из реестра"
+
+msgid "Fail to load themes"
+msgstr "Не удалось загрузить темы"
+
+msgid "Features"
+msgstr "Функции"
+
+msgid "Forward"
+msgstr "Переслать"
+
+msgid "Go"
+msgstr "Вперёд"
+
+msgid "Group"
+msgstr "Группа"
+
+msgid "Home"
+msgstr "Главная"
+
+msgid "Idle"
+msgstr "Простаивает"
+
+msgid "Import"
+msgstr "Импортировать"
+
+#, fuzzy
+msgid "Logged in as"
+msgstr "Войти как"
+
+msgid "Login as"
+msgstr "Войти как"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Main configuration"
+msgstr "Конфигурация"
+
+msgid "Manage"
+msgstr "Редактировать"
+
+#, fuzzy
+msgid "Manage ACL"
+msgstr "Редактировать"
+
+msgid "Manage account"
+msgstr "Управление пользователями"
+
+msgid "Manage gateway"
+msgstr "Управление шлюзами"
+
+msgid "Manage gateway and SMSC"
+msgstr "Управление шлюзами и SMS-центрами"
+
+msgid "Manage sender ID"
+msgstr "Управление именами отправителей"
+
+#, fuzzy
+msgid "Manage site"
+msgstr "Управление пользователями"
+
+msgid "Manage sub-account"
+msgstr "Управление дочерним пользователем"
+
+msgid "Manage sub-accounts"
+msgstr "Управление дочерними пользователями"
+
+msgid "Manage subuser"
+msgstr "Управление дочерними пользователями"
+
+msgid "Manage subusers"
+msgstr "Управление дочерними пользователями"
+
+msgid "Manage user"
+msgstr "Управление пользователями"
+
+msgid "Move"
+msgstr "Переместить в"
+
+msgid "My account"
+msgstr "Мой профиль"
+
+msgid "Offline"
+msgstr "Автономный"
+
+msgid "Online"
+msgstr "Онлайн"
+
+msgid "Please run composer.phar update"
+msgstr "Пожалуйста, выполните composer.phar update"
+
+msgid "Preferences"
+msgstr "Профиль"
+
+msgid "Reduce"
+msgstr "Уменьшить"
+
+msgid "Reply"
+msgstr "Ответить"
+
+msgid "Reports"
+msgstr "Отчёты"
+
+msgid "Resend"
+msgstr "Повторить"
+
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Unable to find composer files"
+msgstr "Не удалось нати файлы composer"
+
+msgid "Unban"
+msgstr "Разблокировать"
+
+msgid "User configuration"
+msgstr "Настройки"
+
+msgid "User preference"
+msgstr "Пользовательские настройки"
+
+msgid "View"
+msgstr "Показать"
+
+msgid "Your credit"
+msgstr ""
+
+msgid "return"
+msgstr ""

@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-11 22:14+0700\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Ban"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+#, fuzzy
+msgid "Compose message"
+msgstr "发送为非代码信息"
+
+msgid "Delete"
+msgstr "删除"
+
+#, fuzzy
+msgid "Delete user"
+msgstr "删除"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Export"
+msgstr ""
+
+msgid "FATAL ERROR"
+msgstr ""
+
+msgid "Fail to connect to database"
+msgstr ""
+
+#, fuzzy
+msgid "Fail to load gateway"
+msgstr "删除短信失败"
+
+#, fuzzy
+msgid "Fail to load language"
+msgstr "活跃的语言"
+
+msgid "Fail to load main config from registry"
+msgstr ""
+
+#, fuzzy
+msgid "Fail to load themes"
+msgstr "发送短信失败"
+
+#, fuzzy
+msgid "Features"
+msgstr "特征"
+
+#, fuzzy
+msgid "Forward"
+msgstr "转发邮件页脚"
+
+msgid "Go"
+msgstr "运行"
+
+msgid "Group"
+msgstr "群"
+
+msgid "Home"
+msgstr "主页"
+
+msgid "Idle"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Logged in as"
+msgstr ""
+
+msgid "Login as"
+msgstr ""
+
+msgid "Logout"
+msgstr "注销"
+
+msgid "Main configuration"
+msgstr "主要构造"
+
+msgid "Manage"
+msgstr "管理"
+
+#, fuzzy
+msgid "Manage ACL"
+msgstr "管理"
+
+#, fuzzy
+msgid "Manage account"
+msgstr "管理用户"
+
+#, fuzzy
+msgid "Manage gateway"
+msgstr "管理用户"
+
+#, fuzzy
+msgid "Manage gateway and SMSC"
+msgstr "管理用户"
+
+#, fuzzy
+msgid "Manage sender ID"
+msgstr "短信发件人"
+
+#, fuzzy
+msgid "Manage site"
+msgstr "管理用户"
+
+#, fuzzy
+msgid "Manage sub-account"
+msgstr "管理用户"
+
+#, fuzzy
+msgid "Manage sub-accounts"
+msgstr "管理用户"
+
+#, fuzzy
+msgid "Manage subuser"
+msgstr "管理用户"
+
+#, fuzzy
+msgid "Manage subusers"
+msgstr "管理用户"
+
+msgid "Manage user"
+msgstr "管理用户"
+
+msgid "Move"
+msgstr ""
+
+msgid "My account"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Please run composer.phar update"
+msgstr ""
+
+msgid "Preferences"
+msgstr "偏好"
+
+msgid "Reduce"
+msgstr ""
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Reports"
+msgstr ""
+
+msgid "Resend"
+msgstr ""
+
+#, fuzzy
+msgid "Send message"
+msgstr "发送为非代码信息"
+
+msgid "Settings"
+msgstr ""
+
+#, fuzzy
+msgid "Unable to find composer files"
+msgstr "不能更新登陆会话"
+
+msgid "Unban"
+msgstr ""
+
+#, fuzzy
+msgid "User configuration"
+msgstr "主要构造"
+
+#, fuzzy
+msgid "User preference"
+msgstr "偏好"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Your credit"
+msgstr ""
+
+msgid "return"
+msgstr ""

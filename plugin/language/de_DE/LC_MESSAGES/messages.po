@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-30 10:07+0100\n"
+"Language: de_DE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Ban"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+#, fuzzy
+msgid "Compose message"
+msgstr "Sende SMS"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete user"
+msgstr "Benutzer löschen"
+
+msgid "Edit"
+msgstr "Ändern"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "FATAL ERROR"
+msgstr ""
+
+msgid "Fail to connect to database"
+msgstr ""
+
+#, fuzzy
+msgid "Fail to load gateway"
+msgstr "Ausfüllen zum Aktualisieren"
+
+#, fuzzy
+msgid "Fail to load language"
+msgstr "Standard Sprache"
+
+msgid "Fail to load main config from registry"
+msgstr ""
+
+#, fuzzy
+msgid "Fail to load themes"
+msgstr "Fehler beim Senden der Email"
+
+#, fuzzy
+msgid "Features"
+msgstr "Erweiterungen"
+
+msgid "Forward"
+msgstr "Weiterleiten"
+
+msgid "Go"
+msgstr "Los"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Home"
+msgstr "Startseite"
+
+msgid "Idle"
+msgstr ""
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Logged in as"
+msgstr ""
+
+msgid "Login as"
+msgstr ""
+
+msgid "Logout"
+msgstr "Abmelden"
+
+msgid "Main configuration"
+msgstr "Hauptkonfiguration"
+
+msgid "Manage"
+msgstr "Verwalten"
+
+#, fuzzy
+msgid "Manage ACL"
+msgstr "Verwalten"
+
+#, fuzzy
+msgid "Manage account"
+msgstr "Mein Account"
+
+#, fuzzy
+msgid "Manage gateway"
+msgstr "Benutzer verwalten"
+
+#, fuzzy
+msgid "Manage gateway and SMSC"
+msgstr "Benutzer verwalten"
+
+#, fuzzy
+msgid "Manage sender ID"
+msgstr "SMS Absender-ID"
+
+#, fuzzy
+msgid "Manage site"
+msgstr "Benutzer verwalten"
+
+#, fuzzy
+msgid "Manage sub-account"
+msgstr "Benutzer verwalten"
+
+#, fuzzy
+msgid "Manage sub-accounts"
+msgstr "Benutzer verwalten"
+
+#, fuzzy
+msgid "Manage subuser"
+msgstr "Benutzer verwalten"
+
+#, fuzzy
+msgid "Manage subusers"
+msgstr "Benutzer verwalten"
+
+msgid "Manage user"
+msgstr "Benutzer verwalten"
+
+#, fuzzy
+msgid "Move"
+msgstr "Verschieben nach"
+
+#, fuzzy
+msgid "My account"
+msgstr "Mein Account"
+
+msgid "Offline"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Please run composer.phar update"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Einstellungen"
+
+msgid "Reduce"
+msgstr ""
+
+msgid "Reply"
+msgstr "Antwort"
+
+#, fuzzy
+msgid "Reports"
+msgstr "Export"
+
+msgid "Resend"
+msgstr "Erneut senden"
+
+msgid "Send message"
+msgstr "Sende SMS"
+
+msgid "Settings"
+msgstr ""
+
+#, fuzzy
+msgid "Unable to find composer files"
+msgstr "Login Session kann nicht aktualisiert werden"
+
+msgid "Unban"
+msgstr ""
+
+msgid "User configuration"
+msgstr "Benutzerkonfiguration"
+
+msgid "User preference"
+msgstr "Benutzereinstellungen"
+
+msgid "View"
+msgstr "Anzeigen"
+
+msgid "Your credit"
+msgstr ""
+
+msgid "return"
+msgstr ""
